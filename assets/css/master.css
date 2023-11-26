@@ -240,7 +240,7 @@ a{
     z-index: 100;
     background-color: var(--color);
     width: 2px;
-    height: 76%;
+    height: 100%;
     left: -20px;   
 }
 .about-content ul li{
